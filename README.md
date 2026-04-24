@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="center">Hi, I'm Tiago de Gouveia Martins Neumann, a 17-year-old student from Brazil.<br>I'm currently attending high school integrated with a Systems Analysis and Development course at SESI Reference School.</h4>
+<h3 align="center">Hi, I'm Tiago de Gouveia Martins Neumann, a 17-year-old student from Brazil.<br>I'm currently attending high school integrated with a Systems Analysis and Development course at SESI Reference School.</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since I was 15 😅  <br>📚 Currently learning JavaScript and SQL  <br>🎯 Aiming to become a fullstack developer and work abroad  <br>🎲 I love video games, soccer, series, and movies</h4>
+<h3 align="left">✨ Creating bugs since I was 15 😅  <br>📚 Currently learning JavaScript and SQL  <br>🎯 Aiming to become a fullstack developer and work abroad  <br>🎲 I love video games, soccer, series, and movies</h3>
 
 ###
 
