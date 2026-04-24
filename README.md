@@ -1,10 +1,8 @@
-<h1 align="center">------------- Tiago Neumann -------------</h1>
+<h1 align="center">Tiago Neumann</h1>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF3NzVub3owam9wbXRsOWZxNzBsODBtaDc4OXRtcmZ4MzV4a28yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FLgJNQjQq5xPoKA/giphy.gif"  />
-</div>
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF3NzVub3owam9wbXRsOWZxNzBsODBtaDc4OXRtcmZ4MzV4a28yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FLgJNQjQq5xPoKA/giphy.gif"  />
 
 ###
 
@@ -22,13 +20,7 @@
 
 <br clear="both">
 
-<h2 align="center">------------------------- About me ------------------------</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTAxNjJpcjBvN2xpeDh6aTdtNGVtcGxyeDUweGpiYnk1MnduY2VvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txFuH77ob4XhXKfTOk/giphy.gif"  />
-</div>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -36,7 +28,7 @@
 
 ###
 
-<h2 align="center">---------------- Programming Languages ----------------</h2>
+<h2 align="center">Programming Languages</h2>
 
 ###
 
@@ -57,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tiago-neumann&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=20&order=3" height="180" alt="streak graph"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTAxNjJpcjBvN2xpeDh6aTdtNGVtcGxyeDUweGpiYnk1MnduY2VvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txFuH77ob4XhXKfTOk/giphy.gif"  />
 </div>
 
 ###
