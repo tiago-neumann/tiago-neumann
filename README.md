@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">---------------- Programming Languages ----------------</h2>
+<h2 align="center">---------------- Programming Languages ----------------</h2>
 
 ###
 
