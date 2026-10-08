@@ -1,17 +1,78 @@
-<h1 align="center">Tiago Neumann</h1>
+# Olá! Eu sou o Tiago Neumann 👋
 
-###
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+💻 Desenvolvedor em formação
+📍 Joinville, Santa Catarina, Brasil
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF3NzVub3owam9wbXRsOWZxNzBsODBtaDc4OXRtcmZ4MzV4a28yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FLgJNQjQq5xPoKA/giphy.gif"/>
+Estou construindo minha jornada na área de tecnologia, buscando transformar conhecimento em projetos e evoluir constantemente como desenvolvedor.
+
+Atualmente, tenho maior contato com desenvolvimento web e venho aprimorando minhas habilidades em programação, desenvolvimento de aplicações e boas práticas de código.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+
 </div>
 
+**Principais tecnologias:**
 
-###
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* SQL
 
-<h3 align="center">Hi, I'm Tiago de Gouveia Martins Neumann, a 17-year-old student from Brazil.<br>I'm currently attending high school integrated with a Systems Analysis and Development course at SESI Reference School.</h3>
+**Conhecimento básico**
 
-###
+* Python
+* C++ 
+
+---
+
+## 🚀 Atualmente
+
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas
+* 🌐 Aprofundando meus conhecimentos em desenvolvimento web
+* 🧠 Estudando e praticando programação constantemente
+* 🔨 Desenvolvendo projetos para colocar meus conhecimentos em prática
+* 📚 Buscando evoluir minhas habilidades e conhecer novas tecnologias
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará alguns dos projetos que venho desenvolvendo durante minha jornada de aprendizado.
+
+> Estou constantemente adicionando novos projetos e aprimorando os existentes.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre tecnologia, projetos ou oportunidades, fique à vontade para entrar em contato.
+
+📍 **Joinville — SC, Brasil**
 
 <div align="center">
   <a href="https://www.instagram.com/_tiagoneumann/" target="_blank">
@@ -19,40 +80,11 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<h1 align="center">About me</h1>
-
-###
-
-<h3 align="left">✨ Creating bugs since I was 15 😅  <br>📚 Currently learning JavaScript and SQL  <br>🎯 Aiming to become a fullstack developer and work abroad  <br>🎲 I love video games, soccer, series, and movies</h3>
-
-###
-
-<h1 align="center">Programming Languages</h1>
-
-###
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
+
+### 🚀 Sempre aprendendo. Sempre evoluindo.
+
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTAxNjJpcjBvN2xpeDh6aTdtNGVtcGxyeDUweGpiYnk1MnduY2VvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txFuH77ob4XhXKfTOk/giphy.gif"  />
-</div>
-
-###
